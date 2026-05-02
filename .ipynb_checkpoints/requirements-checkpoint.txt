@@ -1,0 +1,10 @@
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel
+python-dotenv
+anthropic
+
+numpy
+pandas
+matplotlib
+scikit-learn
