@@ -29,9 +29,9 @@ Você deverá ser capaz de ver essa tela
 
 ![alt text](/imgs-docs/image-1.png)
 
-Passo 5 - OPCIONAL
+Passo 5 - OPCIONAL:  necessita ter a extenção do `Dev Containers` da Microsoft instalado no seu VS Code
 
-Caso você queria utilizar o notebook via VS Code e não via navegador.
+Caso você queria utilizar o notebook via VS Code e via navegador ao mesmo tempo
 
 O projeto está configurado para que você possa utilizar o VS Code através do Dev Container
 
