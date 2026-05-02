@@ -55,3 +55,7 @@ após clicar será exebido um wizard no VS Code parecido com esse
 Selecione a opção: `Reopen in Container` e espere o VS Code reiniciar
 
 Pronto agora você poderá utilizar o notebook dentro do container e também no navegador
+
+Observe o canto inferior esquerdo da imagem abaixo, ele indica que o VS Code está rodando dentro do `Dev Container: Claude Course`
+
+![alt text](/imgs-docs/image-4.png)
