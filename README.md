@@ -48,7 +48,7 @@ Após o container estiver rodando, vá até o canto inferior esquerdo do seu VS 
 
 ![alt text](/imgs-docs/image-2.png)
 
-após clicar será exebido um wizard no VS Code parecido com esse
+após clicar será exibido um wizard no VS Code parecido com esse
 
 ![alt text](/imgs-docs/image-3.png)
 
